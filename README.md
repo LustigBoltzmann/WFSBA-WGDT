@@ -1,2 +1,2 @@
 # WFSBA-WGDT
-Weighted_Feature_space_Barycenter_Measure_Average-Wasserstein_Generative_Digital_Twin
+WFSBA-WGDT
